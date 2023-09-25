@@ -1,0 +1,1 @@
+Comments in HTML helps in not rendering the context on the web browser.It also helps in getting more information about the code for human purposes. It also helps in not rendering the context with deleting the code.It can be declared using <ctrl + />

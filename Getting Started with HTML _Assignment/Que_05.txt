@@ -1,0 +1,1 @@
+The DOCTYPE declaration in html means the type of document which is being declared like html,html5. It also helps in rendering and specify the version of html used.
